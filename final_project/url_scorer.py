@@ -1,9 +1,4 @@
 # url_scorer.py
-#
-# updated version of my phishing link checker.
-# still just reads the text of the url without opening it.
-# now using the 8 rules and point values from my notes,
-# tested on 100 urls (50 phishing, 50 legit).
 
 import math
 import re
