@@ -358,7 +358,7 @@ for url, score, signals in false_neg:
 
 
 # ---------------------------------------------------------------------------
-# STEP 5: LET THE USER CHECK A URL
+# STEP 5: LET THE USER CHECK A URL.
 # ---------------------------------------------------------------------------
 
 print("\n--- PHISHING URL CHECKER ---")
